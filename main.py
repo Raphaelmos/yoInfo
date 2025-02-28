@@ -1,4 +1,6 @@
-# Tool to use only for professional and educational purposes
+# Tool to use only for professional and educational purposes.
+# Tool using 2 different API that can be seen below.
+
 
 import os
 import requests

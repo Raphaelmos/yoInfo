@@ -6,6 +6,7 @@ import os
 import requests
 import socket
 import whois
+from art import *
 from urllib.parse import urlparse
 
 def cls():
@@ -30,6 +31,7 @@ def banner():
     print("------------------------------------------------")
     print("       INFORMATION GATHERING TOOLS")
     print("------------------------------------------------")
+    tprint("yoInfo", font="random")
 
 def menu():
     """Display the main menu."""

@@ -1,7 +1,7 @@
 # Tool to use only for professional and educational purposes.
 # Tool using 2 different API that can be seen below.
 
-
+# Possibility to also use : ipdata.co
 import os
 import requests
 import socket

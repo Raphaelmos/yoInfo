@@ -2,6 +2,7 @@
 # Tool using 2 different API that can be seen below.
 
 # Possibility to also use : ipdata.co
+# Possibility to use hudsonrock / maclookup
 import os
 import requests
 import socket

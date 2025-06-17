@@ -3,6 +3,7 @@
 
 # Possibility to also use : ipdata.co
 # Possibility to use hudsonrock / maclookup
+# Also a possibility to have different countries's main application
 import os
 import requests
 import socket
